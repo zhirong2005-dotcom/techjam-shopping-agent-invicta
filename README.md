@@ -49,10 +49,10 @@ Incoming messages are analyzed to determine the current interaction state.
 
 The agent handles the competition's main conversational behaviors:
 
-* **Buying** — the customer provides an important requirement early.
-* **Browsing** — the customer begins with limited information and is still exploring.
-* **Intent Override** — an earlier preference is replaced later in the conversation.
-* **Boundary** — the customer may indicate that they have no preference for a requested attribute.
+* **Buying** : the customer provides an important requirement early.
+* **Browsing** : the customer begins with limited information and is still exploring.
+* **Intent Override** : an earlier preference is replaced later in the conversation.
+* **Boundary** : the customer may indicate that they have no preference for a requested attribute.
 
 This routing influences both retrieval and clarification behavior.
 
